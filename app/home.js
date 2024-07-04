@@ -1,4 +1,4 @@
-import CustomNavbar from '../components/Navbar';
+import CustomNavbar from '../components/navbar';
 import CustomCarousel from '../components/Carousel';
 import CustomCard from '../components/Card';
 
