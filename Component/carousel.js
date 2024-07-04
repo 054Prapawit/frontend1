@@ -5,7 +5,7 @@ const CustomCarousel = () => (
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://via.placeholder.com/800x400"
+        src="img/wp1904218.jpg"
         alt="First slide"
       />
       <Carousel.Caption>
@@ -16,7 +16,7 @@ const CustomCarousel = () => (
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://via.placeholder.com/800x400"
+        src="img/wp12345.jpg"
         alt="Second slide"
       />
       <Carousel.Caption>
@@ -27,7 +27,7 @@ const CustomCarousel = () => (
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://via.placeholder.com/800x400"
+        src="img/wp3634836.jpg"
         alt="Third slide"
       />
       <Carousel.Caption>
