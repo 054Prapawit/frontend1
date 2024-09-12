@@ -36,7 +36,7 @@ export default function Home() {
                 <p className="card-text">
                   Nike vapor 16
                 </p>
-                <a href="#" className="btn btn-primary">BUY</a>
+                <a href="#" className="btn btn-danger">BUY</a>
               </div>
             </div>
           </div>
@@ -49,7 +49,7 @@ export default function Home() {
                 <p className="card-text">
                   Nike superfly 10
                 </p>
-                <a href="#" className="btn btn-primary">BUY</a>
+                <a href="#" className="btn btn-danger">BUY</a>
               </div>
             </div>
           </div>
@@ -62,7 +62,7 @@ export default function Home() {
                 <p className="card-text">
                   PSG HOME KIT 2023/2024
                 </p>
-                <a href="#" className="btn btn-primary">BUY</a>
+                <a href="#" className="btn btn-danger">BUY</a>
               </div>
             </div>
           </div>
@@ -115,7 +115,7 @@ function Footer() {
             <div className="d-flex flex-column flex-sm-row w-100 gap-2">
               <label htmlFor="newsletter1" className="visually-hidden">Email address</label>
               <input id="newsletter1" type="text" className="form-control" placeholder="Email address" />
-              <button className="btn btn-primary" type="submit">Subscribe</button>
+              <button className="btn btn-danger" type="submit">Subscribe</button>
             </div>
           </form>
         </div>
